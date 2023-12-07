@@ -30,8 +30,8 @@ Discusses the iterative process of developing the code and optimizing the contro
 
 ## Simulation Results
 Presents results from simulations, demonstrating the system's reaction to external forces and the effectiveness of the implemented methods.
+SOSML: green,   Basic:Blue;
 ![image](https://github.com/lapocarrieri/Robust-collision-detection-and-isolation/assets/56505429/82e56f55-d4a0-479a-94b0-4442e646e9ab)
-![image](https://github.com/lapocarrieri/Robust-collision-detection-and-isolation/assets/56505429/b1389119-656f-4001-a35b-e912b1101b23)
 ![image](https://github.com/lapocarrieri/Robust-collision-detection-and-isolation/assets/56505429/feae5a5e-d5f9-44c1-a73b-4748a341c584)
 ![image](https://github.com/lapocarrieri/Robust-collision-detection-and-isolation/assets/56505429/88830ce6-e13b-4dbb-ba67-5a1775cba389)
 ![image](https://github.com/lapocarrieri/Robust-collision-detection-and-isolation/assets/56505429/e3bc2676-f259-4359-bbf3-a9776dcff9e5)
