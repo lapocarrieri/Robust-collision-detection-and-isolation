@@ -31,11 +31,15 @@ Discusses the iterative process of developing the code and optimizing the contro
 ## Simulation Results
 Presents results from simulations, demonstrating the system's reaction to external forces and the effectiveness of the implemented methods.
 SOSML: green,   Basic:Blue;
+### 0 torque respose with different noise.
 ![image](https://github.com/lapocarrieri/Robust-collision-detection-and-isolation/assets/56505429/82e56f55-d4a0-479a-94b0-4442e646e9ab)
+### Varying torque with 0 noise
 ![image](https://github.com/lapocarrieri/Robust-collision-detection-and-isolation/assets/56505429/feae5a5e-d5f9-44c1-a73b-4748a341c584)
+### Step response with noise
 ![image](https://github.com/lapocarrieri/Robust-collision-detection-and-isolation/assets/56505429/88830ce6-e13b-4dbb-ba67-5a1775cba389)
+### Step response 0 noise
 ![image](https://github.com/lapocarrieri/Robust-collision-detection-and-isolation/assets/56505429/e3bc2676-f259-4359-bbf3-a9776dcff9e5)
-## Reaction
+## Reaction strategy applying a counterTorque
 ![image](https://github.com/lapocarrieri/Robust-collision-detection-and-isolation/assets/56505429/88630012-6541-4697-93d5-b8f218a11ae4)
 
 
